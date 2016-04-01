@@ -1,7 +1,7 @@
 {
   "name": "even-better",
   "description": "Server and process monitoring plugin",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "repository": "git://github.com/bevacqua/even-better",
   "main": "lib/index.js",
   "keywords": [
